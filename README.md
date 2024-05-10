@@ -4,12 +4,8 @@ Welcome to the Accountant Dashboard project! This dashboard is designed to provi
 
 ## Features
 
-- **Dashboard Overview:** Provides a summary of key financial metrics and performance indicators.
-- **Income and Expenses Tracking:** Allows users to record and categorize income and expenses.
-- **Transaction History:** Displays a detailed history of financial transactions.
-- **Reports and Analytics:** Generates reports and visualizations to help users analyze financial data.
-- **User Authentication:** Secure user authentication system to protect sensitive financial information.
-- **Responsive Design:** Ensures the dashboard is accessible and functional across various devices and screen sizes.
+**Swiper Integration:** Utilizes Swiper for interactive slide-based components.
+- **Font Awesome Icons:** Enhances UI with Font Awesome icons for better visual representation.
 
 ## Installation
 
